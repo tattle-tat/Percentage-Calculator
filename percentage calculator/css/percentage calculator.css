@@ -1,0 +1,29 @@
+.input1{
+  background-color:#fce8f8;
+   height: 15px;
+   width:150px;
+   border:5px inset #1be0d7
+}
+.input2{
+  background-color:#fce8f8;
+   height: 15px;
+   width:150px;
+   border:5px inset #1be0d7
+}
+.body{
+  background-color:#e6ed11;
+}
+#ans{
+  height: 15px;
+  width: 150px;
+  border:4px outset #ed3424;
+}
+.H1{
+  font-family: 'Akaya Kanadaka', cursive;
+}
+.h4{
+  font-family: 'Akaya Kanadaka', cursive;
+  color: #faf7f7;
+  background-color:lightpink;
+
+}
